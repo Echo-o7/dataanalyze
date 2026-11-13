@@ -19,10 +19,10 @@
 9.1) Klart
 
 10) Vilken fil bestämmer vilka data som skapas?
-10.1) 
+10.1) data.py skapar data, diagram.py håller i funktionen som skapar diagrammet, main.py tar sedan båda och kör de båda så vi får ett diagram
 11) Vilken fil bestämmer hur diagrammet ser ut?
-11.1) 
+11.1) diagram.py bestämmer också hur diagrammet ska se ut, så om man vill ändra utseende på diagrammet så ändrar man diagram.py
 12) Varför skickas data till visa_histogram(data) i stället för att skapa en ny datamängd i diagram.py?
-12.1) 
+12.1) för man vill att diagrammet vissar samma data som har slumpats fram, om vi gjorde det och hade något som sa datan så skulle diagrammet inte vissa samma sak som sägs
 13) Vad är skillnaden mellan att returnera data och att skriva ut data med print()?
-13.1) 
+13.1) print bara skriver vad den får, vilket har bara en användning, medan return ger en variabel data att ta med sig

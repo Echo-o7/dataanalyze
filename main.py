@@ -4,7 +4,6 @@ from data import create_data
 from data import create_data
 from diagram import show_histogram
 
-data_number = create_data()
 analyze_data = create_data()
 
 #the print() make the outcome cleaner
