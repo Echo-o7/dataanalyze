@@ -1,0 +1,28 @@
+1) Kör main.py två gånger. Blir de första tio värdena likadana?
+1.1) nej, det är inte lika alls
+2) Ändra antalet genererade värden från 100 till 20. Vad ska len(data) visa? Kontrollera.
+2.1) mindre antal och en mer ojämn diagram, för det är färre tal som gör det jämt
+3) Ändra intervallet till 50–60. Kontrollera att de genererade värdena ligger inom intervallet.
+3.1) de ligger inom intervallet
+4) Återställ därefter till 100 värden mellan 0 och 100.
+4.1) klart
+
+5) Kör programmet och kontrollera att histogrammet öppnas.
+5.1)
+6) Ändra bins från 10 till 5 och sedan 20. Vad ändras i bilden? Har själva datamängden ändrats?
+6.1)
+7) Generera 1 000 värden i stället för 100. Hur förändras histogrammets utseende?
+7.1)
+8) Ändra intervallet från 0–100 till 0–10. Vad händer med x-axeln?
+8.1)
+9) Återställ till 100 värden mellan 0 och 100 samt 10 stapelintervall.
+9.1)
+
+10) Vilken fil bestämmer vilka data som skapas?
+10.1)
+11) Vilken fil bestämmer hur diagrammet ser ut?
+11.1)
+12) Varför skickas data till visa_histogram(data) i stället för att skapa en ny datamängd i diagram.py?
+12.1)
+13) Vad är skillnaden mellan att returnera data och att skriva ut data med print()?
+13.1)
