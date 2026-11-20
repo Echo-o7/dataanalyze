@@ -2,4 +2,4 @@ import numpy as np
 import random as ran
 
 def price_analyze():
-    int
+    print("hello")
