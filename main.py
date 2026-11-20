@@ -6,11 +6,14 @@ import matplotlib.pyplot as plt
 from diagram import show_histogram
 from data import create_data
 from data import create_randint_data
-from statistics import price_analyze
+from data import price_bike
+from statistics import analyze_prices
 
+bike_prices = [ 1200, 1100, 1200, 1300, 4500 ]
+price_bike()
 analyze_data = create_data()
 analyze_randint_data = create_randint_data()
-labb_number = input("Labb number?")
+labb_number = input("Labb number? ")
 
 if labb_number == "1":
     #the print() make the outcome cleaner
@@ -27,5 +30,8 @@ if labb_number == "1":
     print()
     print()
 
+
 elif labb_number == "2":
-    int
+    mean_price, median_price = analyze_prices(bike_prices)
+    print("Medelpris:", mean_price)
+    print("Medianpris:", median_price)
