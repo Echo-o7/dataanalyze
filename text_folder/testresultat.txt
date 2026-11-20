@@ -1,3 +1,4 @@
+LABB 1
 1) Kör main.py två gånger. Blir de första tio värdena likadana?
 1.1) Nej, det är inte lika alls
 2) Ändra antalet genererade värden från 100 till 20. Vad ska len(data) visa? Kontrollera.
@@ -27,7 +28,7 @@
 13) Vad är skillnaden mellan att returnera data och att skriva ut data med print()?
 13.1) print bara skriver vad den får, vilket har bara en användning, medan return ger en variabel data att ta med sig
 
-
+ LABB 2
 11) 
 11.1) 
 12) 
@@ -52,3 +53,5 @@
 21.1) 
 22) 
 22.1) 
+
+LABB 3

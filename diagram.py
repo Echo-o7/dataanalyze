@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import random as ran
 
 def show_histogram(data):
     plt.hist(data, bins=10)
