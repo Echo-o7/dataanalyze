@@ -3,9 +3,10 @@ import data
 import statistics
 import random as ran
 import matplotlib.pyplot as plt
+from diagram import show_histogram
 from data import create_data
 from data import create_randint_data
-from diagram import show_histogram
+from statistics import price_analyze
 
 analyze_data = create_data()
 analyze_randint_data = create_randint_data()
