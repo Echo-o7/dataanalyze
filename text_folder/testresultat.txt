@@ -26,3 +26,29 @@
 12.1) för man vill att diagrammet vissar samma data som har slumpats fram, om vi gjorde det och hade något som sa datan så skulle diagrammet inte vissa samma sak som sägs
 13) Vad är skillnaden mellan att returnera data och att skriva ut data med print()?
 13.1) print bara skriver vad den får, vilket har bara en användning, medan return ger en variabel data att ta med sig
+
+
+11) 
+11.1) 
+12) 
+12.1) 
+13) 
+13.1) 
+14) 
+14.1) 
+15) 
+15.1) 
+16) 
+16.1) 
+17) 
+17.1) 
+18) 
+18.1) 
+19) 
+19.1) 
+20) 
+20.1) 
+21) 
+21.1) 
+22) 
+22.1) 
