@@ -30,7 +30,6 @@ if labb_number == "1":
     print()
     print()
 
-
 elif labb_number == "2":
     mean_price, median_price = analyze_prices(bike_prices)
     print("Medelpris:", mean_price)
